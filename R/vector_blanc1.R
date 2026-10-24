@@ -20,7 +20,7 @@ visualizar_par_impar<-function(A){
   cat("la cantidad de valores pares es: ",k-1,"\n")
   cat("Los valores pares son: \n")
   print(P)
-  cat("la cantidad de valores pares es: ",q-1,"\n")
+  cat("la cantidad de valores impares es: ",q-1,"\n")
   cat("Los valores pares son: \n")
   print(I)
 }
